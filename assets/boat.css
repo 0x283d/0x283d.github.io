@@ -13,8 +13,7 @@
 .ac-animated-svg-icon {
   left: 50%;
   top: 56.5%;
-  transform: translateX(-50%) translateY(-50%);
-  border: 1px dashed #3F6197;
+  transform: translateX(-50%) translateY(-40%);
 }
 /*optional animation on hover toggle button */
 .toggle-button {
